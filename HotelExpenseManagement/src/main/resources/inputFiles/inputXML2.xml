@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cmfoodchain>
+	<branch>
+		<location>"Delhi"</location>
+		<totalcollection>600.00</totalcollection>
+		<locationid>DLI-1234-456</locationid>
+	</branch>
+	<orders>
+		<orderdetail>
+			<orderid>1</orderid>
+			<billamount>100.00</billamount>
+		</orderdetail>
+		<orderdetail>
+			<orderid>2</orderid>
+			<billamount>200.00</billamount>
+		</orderdetail>
+		<orderdetail>
+			<orderid>3</orderid>
+			<billamount>300.00</billamount>
+		</orderdetail>
+	</orders>
+</cmfoodchain>

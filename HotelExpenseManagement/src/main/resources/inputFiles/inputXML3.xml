@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cmfoodchain>
+	<branch>
+		<location>"Delhi"</location>
+		<totalcollection>0.00</totalcollection>
+		<locationid>DLI-1234-789</locationid>
+	</branch>
+	<orders>
+	</orders>
+</cmfoodchain>

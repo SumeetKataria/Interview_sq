@@ -5,6 +5,24 @@
       "totalcollection": 124.0,
       "sumoforder": 124.0,
       "locationid": "BOM-1234-457"
+    },
+    {
+      "location": "\"Mumbai\"",
+      "totalcollection": 5000.0,
+      "sumoforder": 5000.0,
+      "locationid": "BOM-1234-789"
+    },
+    {
+      "location": "\"Delhi\"",
+      "totalcollection": 600.0,
+      "sumoforder": 600.0,
+      "locationid": "DLI-1234-456"
+    },
+    {
+      "location": "\"Delhi\"",
+      "totalcollection": 0.0,
+      "sumoforder": 0.0,
+      "locationid": "DLI-1234-789"
     }
   ]
 }

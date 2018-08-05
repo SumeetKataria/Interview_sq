@@ -11,10 +11,10 @@ public class CashCollectionCheckerMainClass {
 	static String inputFolderPath = ".\\src\\main\\resources\\inputFiles";
 	static String outputFolderPath = ".\\src\\main\\java\\org\\test\\result\\";
 
-	public static void main(String[] args) {
-		CashCollectionCheckerMainClass checker = new CashCollectionCheckerMainClass();
-		checker.cashCollectionChecker();
-	}
+//	public static void main(String[] args) {
+//		CashCollectionCheckerMainClass checker = new CashCollectionCheckerMainClass();
+//		checker.cashCollectionChecker();
+//	}
 
 	// MAIN API
 	public void cashCollectionChecker() {
